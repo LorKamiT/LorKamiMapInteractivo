@@ -1,0 +1,296 @@
+.map-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}  
+.leaflet-control-coordinates {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.custom-icon svg {
+    width: 40px;
+    height: 40px;
+  }
+
+  .popup-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .popup-title {
+    margin-bottom: 0px;
+    text-align: center;
+  }
+  
+  .popup-content {
+    font-size: 0.75rem;
+    text-align: justify;
+  }
+
+  .popup-content-ref,
+  .popup-content-fecha {
+    text-align: start;
+  }
+
+  .popup-content-ref p {
+    font-size: 0.7rem;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    }
+
+    .popup-content-fecha p {
+      font-size: 0.7rem;
+      margin: 0px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      }
+    
+  
+  .popup-images {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .popup-images img {
+    max-width: 300px;
+    max-height: 160px;
+    margin: 1px;
+    border-radius: 5%;
+    box-shadow: 0px 0px 10px black;
+  }
+
+  .DisclaimerKami {
+    z-index: 1000;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: auto;
+    height: auto;
+  }
+
+  .DisclaimerKami p {
+    margin: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 2px;
+    font-size: 0.8rem;
+    font-weight: 500;
+background-color: #919191;
+border-radius: 3px;
+color: #000000;
+/* color: #0078A8; */
+  }
+
+  .DisclaimerPagina {
+    z-index: 1001;
+    position: absolute;
+    top: 0;
+    width: 100%;;
+  }
+
+  .DisclaimerPaginaNav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+
+  .DiscialmerPaginaNavTexto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: 1px solid red; */
+  }
+  
+  .DiscialmerPaginaNavTexto p {
+    margin: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    font-size: 0.8rem;
+    font-weight: 800;
+    color: #fafafa;
+    text-transform: uppercase;
+  }
+  
+  .DiscialmerPaginaNavImagen {
+    position: fixed;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 99%;
+    height: 3%;
+    /* border: 1px solid yellow; */
+  }
+  
+  .DiscialmerPaginaNavImagen img {
+    max-width: 80px;
+    max-height: 25px;
+    margin: 5px;
+  }
+
+
+.layers-expanded {
+  width: auto !important;
+  background-color: rgba(145, 145, 145, 0.5);
+  backdrop-filter: blur(10px);
+  font-size: 0.7rem;
+  font-weight: 500;
+}
+
+.MenuContainer {
+  position: relative;
+}
+
+.MenuDesplegable {
+  z-index: 1001;
+  position: fixed;
+  top: 50%;
+  left: -18%;
+  transform: translate(0%, -50%);
+  transition: left 0.3s ease;
+  background-color: rgba(145, 145, 145, 0.5);
+  /* backdrop-filter: blur(10px); */
+  border: 1px solid black;
+  border-radius: 10px 0px 0px 10px;
+  overflow-y: auto;
+  max-height: 45%;
+  width: 17%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+@media screen and (max-width: 1280px) {
+  .MenuDesplegable {
+    max-height: 40%;
+    top: 45%;
+  }
+}
+
+.MenuDesplegable.visible {
+  /* left: 0.6%; */
+  left: 10.6%;
+}
+
+.MenuToggle.visible {
+  /* left: 17.67%; */
+  left: 27.67%;
+}
+
+.MenuToggle {
+  z-index: 1002;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 50%;
+  transform: translate(0%, -50%);
+  /* left: 0%; */
+  cursor: pointer;
+  transition: left 0.3s ease;
+  /* border: 1px solid yellow; */
+}
+
+.MenuToggle:hover {
+  color: rgb(41, 41, 41);
+}
+.MenuToggle > div {
+  width: 45px;
+  height: 45px;
+  background-color: rgba(145, 145, 145, 0.5);
+  backdrop-filter: blur(10px);
+  border-radius: 0px 10px 10px 0px;
+  border: 1px solid black;
+
+}
+
+.MenuDesplegable::-webkit-scrollbar {
+  width: 4px; /* Anchura del scrollbar */
+}
+
+.MenuDesplegable::-webkit-scrollbar-thumb {
+  background-color: #2c2c2c; /* Color del scrollbar */
+  border-radius: 10px; /* Borde del scrollbar */
+}
+
+.MenuDesplegable::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(59, 59, 59); /* Color del scrollbar al pasar el cursor sobre él */
+}
+
+.MenuDesplegable ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.MenuDesplegable li {
+  padding: 2px 12px;
+  cursor: pointer;
+}
+
+.MenuDesplegable ul li.active {
+  font-weight: bold;
+}
+
+.GroupTitle {
+  font-size: 0.8rem;
+}
+
+.ListaControl li {
+  /* background-color: red; */
+  font-size: 0.7rem;
+  font-weight: 500;
+  transition: 0.1s ease;
+}
+
+.ListaControl li:hover {
+  font-weight: 700;
+  /* background-color: #727272; */
+  background-color: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.SpanControl {
+  display: flex;
+  align-items: center;
+}
+
+.GroupInfo {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  /* border: 1px solid red; */
+}
+
+.ArrowIcon {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  margin-left: auto; /* Esto empuja el icono a la derecha */
+}
+
+.marker-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 5px;
+  /* border: 1px solid rebeccapurple; */
+}
+
+.custom-tooltip {
+  background-color: rgba(145, 145, 145, 0.5);
+  backdrop-filter: blur(10px);
+  border: 0px solid black;
+}
