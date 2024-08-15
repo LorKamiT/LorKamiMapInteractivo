@@ -1,0 +1,920 @@
+[
+
+  {
+    "group": "SAED - SAPD",
+    "lat": 592.07,
+    "lng": 324.87,
+    "iconNum": 6,
+    "popupText": {
+      "title": "Hospital Phillbox Hill",
+      "text": "Sede central del SAMS - Rama medica del SAED, Ubicado en el cruze de Elgin Avenue y Swiss Street, cuenta con una planta fisica de 4 pisos catalogado como Hospital del nivel IV [Atención compleja de pacientes criticos]",
+      "images": [
+        "https://i.gyazo.com/e84d771410b7092d32ad6e4c2c36ef48.webp"
+      ]
+    }
+  },
+  {
+    "group": "SAED - SAPD",
+    "lat": -6557.32,
+    "lng": -76.04,
+    "iconNum": 6,
+    "popupText": {
+      "title": "Hospital Paleto Bay",
+      "text": "Sede norte del SAMS - Rama medica del SAED, Ubicada en Paleto Boulevard, cuenta con una planta fisica de 2 pisos catalogado como Hospital del nivel III [Atención mediana y compleja]",
+      "images": [
+        "https://i.gyazo.com/b691c208b3e43a0b7610d2dacf463b66.png"
+      ]
+    }
+  },
+  {
+    "group": "SAED - SAPD",
+    "lat": 1374.09,
+    "lng": -1029.33,
+    "iconNum": 7,
+    "popupText": {
+      "title": "Parque de Bomberos 69",
+      "text": "Sede central del SAFD - Rama de fuego, rescate y paramedicina del SAED, ubicado en Goma Street - Vespucci Canals, equipado con material mayor para atencion de eventualidades y emergencias de todo tipo.",
+      "images": [
+        "https://i.gyazo.com/d2ee2c2985a7fb5f856ec4442171ad09.png"
+      ]
+    }
+  },
+
+  {
+    "group": "SAED - SAPD",
+    "lat": -6189.94,
+    "lng": -327.96,
+    "iconNum": 7,
+    "popupText": {
+      "title": "Parque de Bomberos Paleto Bay",
+      "text": "Sede norte del SAFD - Rama de fuego, rescate y paramedicina del SAED, ubicado en Paleto Boulevard - Paleto Bay, equipado con material mayor para atencion de eventualidades y emergencias de todo tipo.",
+      "images": [
+        "https://i.gyazo.com/6551f0de167a4e9e58b16ee1a372eda4.png"
+      ]
+    }
+  },
+
+  {
+    "group": "SAED - SAPD",
+    "lat": 994.51,
+    "lng": 447.24,
+    "iconNum": 11,
+    "popupText": {
+      "title": "Comisaria SAPD - Mission Row",
+      "text": "Sede central del SAPD - Comisaria principal de Los Santos, sede metropolitana y divisional del departamento.",
+      "images": [
+        "https://i.gyazo.com/d5781bd5a1ca547d1d33cd421b863476.png"
+      ]
+    }
+  },
+
+    {
+    "group": "SAED - SAPD",
+    "lat": -4790.55,
+    "lng": 2819.68,
+    "iconNum": 11,
+    "popupText": {
+      "title": "Estacion Señora SAPD - LSSD",
+      "text": "Sede norte del SAPD - Estacion central de Los Santos Sheriff Department, sede divisional del departamento.",
+      "images": [
+        "https://i.gyazo.com/0368c21f4b065a45a5151bfb2a745642.png"
+      ]
+    }
+  },
+
+      {
+    "group": "SAED - SAPD",
+    "lat": -6043.60,
+    "lng": -436.47,
+    "iconNum": 11,
+    "popupText": {
+      "title": "Estacion Paleto SAPD - LSSD",
+      "text": "Sede norte del SAPD - Estacion de Los Santos Sheriff Department, sede divisional del departamento.",
+      "images": [
+        "https://i.gyazo.com/67ac9dd4cfe01785a4c31d9cebbf44ba.png"
+      ]
+    }
+  },
+  
+
+
+  
+
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1697.26,
+    "lng": -438.07,
+    "iconNum": 2,
+    "popupText": {
+      "title": "Chatarreria Alta Street",
+      "fecha": "05/05/2024 - 16hrs ESP",
+      "referencia": "01289",
+      "text": "La zona se encuentra en total abandono prestandose para desechar elementos peligrosos, en la misma se encuentra un antiguo deposito de tanques de elementos peligrosos, marcados como gases toxicos e inflamables.",
+      "images": [
+        "https://i.gyazo.com/7d54b6a6256fb7f903ad9a3685cf28bc.png",
+        "https://i.gyazo.com/58c4f8fcf178606ece7d1a2868633d25.png"
+      ]
+    }
+  },
+
+  {
+    "group": "Zonas de riesgo",
+    "lat": -3752.44,
+    "lng": 3513.21,
+    "iconNum": 9,
+    "popupText": {
+      "title": "Laboratorios Humane",
+      "text": "En la Zona hay un deposito mayor de gas propano de la empresa AmiGas que se vio comprometido en un incidente mayor provocado, su disposicion se presta a verse comprometida por explosio´n.",
+      "images": [
+        "https://i.gyazo.com/fde867f18a6c3606a56267b42f53ac08.webp"
+      ]
+    }
+  },
+
+
+    {
+    "group": "Zonas de riesgo",
+    "lat": 378.66,
+    "lng": 625.22,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Depositos de gas - Popular Street",
+      "fecha": "05/05/2024 - 16hrs ESP",
+      "referencia": "01289",
+      "text": "En la Zona hay un deposito mayor de gas propano de la empresa AmiGas que se vio comprometido en un incidente mayor provocado, su disposicion se presta a verse comprometida por explosión.",
+      "images": [
+        "https://i.gyazo.com/083e991f1c0ad305745ddddba65f886e.png"
+      ]
+    }
+  },
+
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1262.80,
+    "lng": 266.05,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Strawberry Avenue",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/O4ME40f.jpg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -6446.04,
+    "lng": -83.86,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Paleto Boulevard",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/yWRO1Y1.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -6639.63,
+    "lng": 177.06,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Paleto Bay",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/sjdPZAg.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -6452.13,
+    "lng": 1686.78,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Paleto Great Ocean Highway",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/HxM1ISF.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -4957.99,
+    "lng": 1688.97,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Grapeseed Main Street",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/haIJ3o2.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -3796.65,
+    "lng": 1997.47,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Sandy Shores Alhambra Drive",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/Lebfr8L.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -3346.95,
+    "lng": 1772.74,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Sandy Shores Panorama Drive",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/wfQxW16.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -3301.22,
+    "lng": 2659.57,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Senora Freeway",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/yTKS9C7.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -2674.70,
+    "lng": 1184.54,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Grand Senora Desert",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/KJWyVb4.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -2632.01,
+    "lng": 263.03,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Route 68",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/JXsUw9l.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -2802.63,
+    "lng": 52.58,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Route 68 Approach",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/KbC64vS.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -2359.15,
+    "lng": -2539.21,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Lago Zancudo",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/SGd24ZZ.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -819.51,
+    "lng": -1788.13,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera North Rockford Drive",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/T47cM2p.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -270.73,
+    "lng": 614.44,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Clinton Avenue",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/YshSyIi.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 320.73,
+    "lng": 1183.04,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Mirror Park Boulevard",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/jf3MWwQ.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -372.87,
+    "lng": 2572.09,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Palomino Freeway",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/MyojZeD.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 310.06,
+    "lng": -2080.72,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Great Ocean Highway",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/30IRp1e.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 265.85,
+    "lng": -1418.62,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Perth Street",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/Kd1IOu7.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 932.01,
+    "lng": -709.76,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Lindsay Circus",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/x7yU1Ho.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1207.93,
+    "lng": -515.20,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Dutch London Street",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/tc4EdAL.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1756.71,
+    "lng": -53.69,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Groove Street",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/rEhmFfV.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1459.45,
+    "lng": 59.42,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Davis Avenue",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/1Xi88hQ.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1029.57,
+    "lng": 810.51,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Vespeucci Boulevard",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/0wVAnSt.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1401.52,
+    "lng": 1207.17,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera El Rancho Boulevard",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/eg0g0tr.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1483.84,
+    "lng": 1241.86,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Estacion de bomberos El Rancho Boulevard",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/FmSbQ8d.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 1474.70,
+    "lng": -314.61,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Innocence Boulevard",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/mH8p8oQ.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": 2515.85,
+    "lng":  -50.68,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera Chupacabra Street",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/cwFweVG.jpeg"
+      ]
+    }
+  },
+  {
+    "group": "Zonas de riesgo",
+    "lat": -2687.39,
+    "lng": 2513.53,
+    "iconNum": 8,
+    "popupText": {
+      "title": "Gasolinera (Rex) Senora Way",
+      "text": "Estacion de gasolina con tanques masivos soterrados y tuberias aisladas a multiples surtidores, tambien equipada con cargadores para coches electricos.",
+      "images": [
+        "https://i.imgur.com/3DZ4zIj.png"
+      ]
+    }
+  },
+
+
+  
+
+  {
+    "group": "Inspecciones de seguridad",
+    "lat": 1281.10,
+    "lng": 123.07,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Moore Club",
+      "fecha": "10/04/2024 - 18:45hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.imgur.com/Rs5GHUi.jpg"
+      ]
+    }
+  },
+
+  {
+    "group": "Inspecciones de seguridad",
+    "lat": 128.66,
+    "lng": -323.37,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Los Santos Customs",
+      "fecha": "xx/04/2024 - 20:00hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.imgur.com/sVTzWvF.jpeg"
+      ]
+    }
+  },
+
+    {
+    "group": "Inspecciones de seguridad",
+    "lat": -87.80,
+    "lng": -3026.14,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Pacific Bluffs",
+      "fecha": "xx/04/2024 - 20:00hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.imgur.com/8kyQprs.jpg"
+      ]
+    }
+  },
+
+      {
+    "group": "Inspecciones de seguridad",
+    "lat": 602.74,
+    "lng": -303.67,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Daily Globe",
+      "fecha": "24/04/2024 - 20:30hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.gyazo.com/96882862768e91d4ba470e1a7c4165e2.png"
+      ]
+    }
+  },
+
+        {
+    "group": "Inspecciones de seguridad",
+    "lat": 883.23,
+    "lng": -698.89,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - LTD Central",
+      "fecha": "xx/04/2024 - 20:00hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.gyazo.com/5800d07e789ec778633094ad082055d9.png"
+      ]
+    }
+  },
+
+          {
+    "group": "Inspecciones de seguridad",
+    "lat": -6699.09,
+    "lng": 65.71,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Taller Beekers",
+      "fecha": "25/04/2024 - 20:00hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.gyazo.com/48a62f2d589857b6cd09b9c59786829c.png"
+      ]
+    }
+  },
+
+            {
+    "group": "Inspecciones de seguridad",
+    "lat": -2731.10,
+    "lng": 2495.43,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Old School Store",
+      "fecha": "02/05/2024 - 19:00hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.imgur.com/WXmV30x.jpg"
+      ]
+    }
+  },
+
+              {
+    "group": "Inspecciones de seguridad",
+    "lat": -2682.32,
+    "lng": 2472.80,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Al´s Auto Parts",
+      "fecha": "02/05/2024 - 19:30hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.imgur.com/MxRPq1E.jpg"
+      ]
+    }
+  },
+
+                {
+    "group": "Inspecciones de seguridad",
+    "lat": -2636.59,
+    "lng": 2515.04,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Rex Dinner",
+      "fecha": "30/04/2024 - 20:00hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.imgur.com/zeKfko4.jpg"
+      ]
+    }
+  },
+
+                  {
+    "group": "Inspecciones de seguridad",
+    "lat": -6316.46,
+    "lng": -297.79,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - Hen House",
+      "fecha": "06/05/2024 - 22:30hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.gyazo.com/675c80670fef4bd57c39ca356ed76707.png"
+      ]
+    }
+  },
+
+                  {
+    "group": "Inspecciones de seguridad",
+    "lat": 160.67,
+    "lng": 914.86,
+    "iconNum": 5,
+    "popupText": {
+      "title": "Inspeccion - DownTown Cab Co.",
+      "fecha": "11/05/2024 - 20:30hrs",
+      "referencia": "Estado: Apto",
+      "text": "Inspeccion de seguridad vigente, cumple con los requerimientos de seguridad y proteccion civil en terminos generales, valida hasta su vencimiento.",
+      "images": [
+        "https://i.gyazo.com/d00858fc54771e555b7fb0fd25f19b0a.jpg"
+      ]
+    }
+  },
+
+
+
+  
+
+  {
+      "group": "Incidentes Abiertos",
+      "lat": 1500.61,
+      "lng": 29.45,
+      "iconNum": 3,
+      "popupText": {
+        "title": "Pirómano I.R.A Parroquia Children Parte 1",
+        "fecha": "01/05/2024 - 18:30hrs",
+      "referencia": "N° de Ref: 01052024-001",
+      "text": "Fuego provocado por bombas molotov y activacion por medio de gasolina sobre la fachada de la iglesia ubicada en Strawberry Avenue sin victimas - Zona Forum drive, Mayor informacion en el informe interno del caso, Continuar en Parte 2 - Almacenes Ferroviarios Los Santos Freeway.",
+      "images": [
+        "https://i.gyazo.com/458a41557ffc7ceb58157e02d26af1a5.png"
+      ]
+    }
+  },
+
+    {
+      "group": "Incidentes Abiertos",
+      "lat": 438.11,
+      "lng": 609.92,
+      "iconNum": 3,
+      "popupText": {
+        "title": "Pirómano I.R.A Almacenes Los Santos Fw. Parte 2",
+        "fecha": "01/05/2024 - 22:00hrs",
+      "referencia": "N° de Ref: 01052024-001",
+        "text": "Incidente mayor con fuego provocado, posterior explosion de deposito de gas y colapso estructural, originado con bombas molotov adicionalmente victimas con heridas de arma punzocortante, 5 victimas 2 de ellas fallecidas, Mayor informacion en el informe interno del caso, Continuar en Parte 3 - Sede LifeInvader",
+        "images": [
+          "https://i.gyazo.com/d499b5ebcdd1396b733dccb28779c163.png"
+        ]
+      }
+    },
+
+      {
+      "group": "Incidentes Abiertos",
+      "lat": 229.27,
+      "lng": -1064.01,
+      "iconNum": 3,
+      "popupText": {
+        "title": "Pirómano I.R.A Sede Life Invader. Parte 3",
+        "fecha": "03/05/2024 - 19:40hrs",
+      "referencia": "N° de Ref: 01052024-001",
+        "text": "Incidente reportado como fuego estructural por LSPD, al llegar el status cambia a aviso de bomba la cual termina detonando, se cataloga como presunta bomba sucia siendo el fuego agravado por numerosos bidones de acido clorhidrico al interior, una victima mortal por quemaduras mayores e inhalacion de humo y vapores quimicos, Mayor informacion en el informe interno del caso, Continuar en Parte 4 - Parque de Bomberos Davis",
+        "images": [
+          "https://i.gyazo.com/b984294dcc00994570c3a7b7b7f8ed4e.png"
+        ]
+      }
+    },
+
+        {
+      "group": "Incidentes Abiertos",
+      "lat": 1628.66,
+      "lng": 221.21,
+      "iconNum": 3,
+      "popupText": {
+        "title": "Pirómano I.R.A Parque LSFD Davis. Parte 4",
+        "fecha": "05/05/2024 - 20:00hrs",
+      "referencia": "N° de Ref: 01052024-001",
+        "text": "Se acude en apoyo a SAPD que informa de un fuego estructural en el parque de davis, durante la extincion se observa un artefacto explosivo por lo cual se evacua y tras un periodo los artificieros del SAPD dan el ok para continuar las labores donde tras controlar la situacion se encuentra a un bombero asignado a davis con quemaduras de segundo grado y hombro dislocado, el llamado se divide por el aviso de un segundo artefacto explosivo en el motel de la ruta 68 donde se capturo al presunto perpetrador quien posteriormente consiguio darse a la fuga derivando en una amenaza terrorista horas mas tarde contra las instalaciones del SAED gestionada con el acuartelamiento de todo el personal en instalaciones policiales, Mayor informacion en el informe interno del caso, Mayor informacion en el informe interno del caso, Continuar en Parte 5 - Del Perro Pier",
+        "images": [
+          "https://i.gyazo.com/2731567490fac1775a0c03e87611dfbd.png",
+          "https://i.gyazo.com/5d8b68b70dd79af47d9bf20708d71224.png"
+        ]
+      }
+    },
+
+          {
+      "group": "Incidentes Abiertos",
+      "lat": 1040.52,
+      "lng": -1604.13,
+      "iconNum": 3,
+      "popupText": {
+        "title": "Pirómano I.R.A Del Perro Pier. Parte 5",
+        "fecha": "16/05/2024 - 20:15hrs",
+      "referencia": "N° de Ref: 01052024-001",
+        "text": "Se acude a un llamado de bomba con amenaza conjunta de que no ingrese la policia, lamentablemente ingresaron de golpe y la bomba detono inmediatamente comprometiendo toda el area de la feria del pier por suerte sin victimas mas que un oficial rescatado ileso por ingreso imprudente, se observa una nota en una pared a nombre del grupo terrorista I.R.A, Posible continuacion - INCIDENTE ACTIVO",
+        "images": [
+          "https://i.gyazo.com/e559ac1449905708888f37a006f2ecd2.png"
+        ]
+      }
+    },
+
+            {
+      "group": "Incidentes Abiertos",
+      "lat": -191.86,
+      "lng": -1613.18,
+      "iconNum": 3,
+      "popupText": {
+        "title": "Estructural Mayor ULSA.",
+        "fecha": "11/05/2024 - 02:00hrs",
+      "referencia": "N° de Ref: 17052024-003",
+        "text": "Se acude a un fuego estructural mayor por explosion de propano provacada con bombonas posicionadas en el tejado del edificio oeste de la univerdiad que causó un colapso parcial del tejado ademas de multiples PH por quemaduras, precipitacion y aplastamiento, Mayor informacion en el incidente interno del caso.",
+        "images": [
+          "https://i.gyazo.com/54e6a42007b39d162029c780e1d82873.jpg"
+        ]
+      }
+    },
+
+
+  
+
+
+    {
+      "group": "Incidentes Cerrados",
+      "lat": -324.09,
+      "lng": -972.04,
+      "iconNum": 4,
+      "popupText": {
+        "title": "Piromano - Greenwich Park",
+        "fecha": "05/05/2024 - 12:05hrs",
+      "referencia": "N° de Ref: 05052024-002",
+      "text": "Se acude a un fuego en campo abierto, al llegar se encuentra la zona muy comprometida y con un humo bastante denso, tras la extincion se consigue ingresar a buscar las posibles causas encontrandose con un cuerpo masculino calcinado quien aun tenia en sus manos elementos incendiarios como un mechero y restos de una bomba molotov, Mayor informacion en el informe interno del caso.",
+      "images": [
+        "https://i.gyazo.com/668d269e16c63033af832dc63f7c0089.png"
+      ]
+    }
+  },
+
+
+
+
+
+    {
+      "group": "Casos aislados",
+      "lat": 1999.09,
+      "lng": -1131.89,
+      "iconNum": 10,
+      "popupText": {
+      "title": "Fuego Estructural - LSC Aeropuerto",
+      "fecha": "24/04/2024 - 23:50hrs",
+      "referencia": "N° Referencia: 9999992024",
+        "text": "Se acude a un fuego estructural mayor con reporte de victimas desde el minuto cero, durante el control del fuego un armario electrico explota lesionando y dejando inhabilitados a 2 bomberos del parque 69 siendo atendidos y trasladados, se solicita apoyo a davis y se controla el incidente, se incia busqueda de victimas resultando en un total de 4 victimas graves, una de ellas fallecida, en el interior del taller destaca un fuerte olor quimico aun en investigacion.",
+        "images": [
+          "https://i.gyazo.com/9a8bc08ee34fd7b7b80cf8ee4d384c77.png"
+        ]
+      }
+    },
+
+    {
+      "group": "Casos aislados",
+      "lat": -314.94,
+      "lng": -557.44,
+      "iconNum": 10,
+      "popupText": {
+      "title": "Fuego Estructural - Bar Tequilala",
+      "fecha": "10/04/2024 - 21:00hrs",
+      "referencia": "N° Referencia: 9999992024",
+        "text": "Se acude a un fuego estructural, a la llegada se observan 3 victimas salir cubiertas en llamas las cuales fallecieron segundos mas tarde, al interior se observan gritas verticales que comprometen la estructura y trazas de derrame de petroleo, por lo cual se declara como provocado y se asigna como caso aislado ya que no encaja con el modus operandi de otros incidentes, mayor información en el informe interno del Fire Marshal.",
+        "images": [
+          "https://i.gyazo.com/a305d72ada3d4c4da8408f7d4c8def4f.jpg"
+        ]
+      }
+    },
+
+      {
+      "group": "Casos aislados",
+      "lat": 2185.49,
+      "lng": 134.83,
+      "iconNum": 10,
+      "popupText": {
+      "title": "Fuego Estructural - Zona portuaria Rancho",
+      "fecha": "14/05/2024 - 00:02hrs",
+      "referencia": "N° Referencia: 9999992024",
+        "text": "Se acude a un fuego estructural con llamados de ayuda directos, se encuentra un incendio bastante extendido por la estructura acompañado de humo negro muy denso, finalmente se extraen 3PH finalmente catalogados como Cod. Negro por herida de bala y quemaduras post mortem.",
+        "images": [
+          "https://i.gyazo.com/0638689b5202ed3f0698af9f73cee744.png"
+        ]
+      }
+    },
+
+
+
+  
+
+    {
+      "group": "Operaciones de rescate",
+      "lat": 2367.45,
+      "lng": 466.99,
+      "iconNum": 12,
+      "popupText": {
+      "title": "Rescate Acuatico - Chum Street",
+      "fecha": "12/05/2024 - 00:55hrs",
+      "referencia": "N° Referencia: N/A",
+        "text": "Se acude a un llamado de un vehiculo que cae desde la zona mas alta de la autopista de cara a la masa de agua de la zona de Chum Street -Zona Industrial-, en la zona se encuentra a 2 victimas inconscientes flotando en Cod-Azul, posteriormente tratadas y trasladadas a buen termino.",
+        "images": [
+          "https://i.gyazo.com/60359f381df560030314c4f030d1ed08.png"
+        ]
+      }
+    },
+    {
+      "group": "Operaciones de rescate",
+      "lat": 4175.91,
+      "lng": -5539.03,
+      "iconNum": 13,
+      "popupText": {
+      "title": "Rescate de Montaña",
+      "fecha": "XX/XX/2024 - 00:00hrs",
+      "referencia": "N° Referencia: N/A",
+        "text": "AAaaaa autzilio!!",
+        "images": [
+          "https://i.gyazo.com/9a8bc08ee34fd7b7b80cf8ee4d384c77.png"
+        ]
+      }
+    },
+    {
+      "group": "Operaciones de rescate",
+      "lat": 4175.91,
+      "lng": -5484.74,
+      "iconNum": 14,
+      "popupText": {
+      "title": "Rescate Terrestre",
+      "fecha": "XX/XX/2024 - 00:00hrs",
+      "referencia": "N° Referencia: N/A",
+        "text": "AAaaaa autzilio!!",
+        "images": [
+          "https://i.gyazo.com/9a8bc08ee34fd7b7b80cf8ee4d384c77.png"
+        ]
+      }
+    }
+
+
+
+  ]
